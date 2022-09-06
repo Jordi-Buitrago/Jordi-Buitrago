@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Buitrago</h1>
 <h3 align="center">A passionate Full Stack developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordi-buitrago&label=Profile%20views&color=0e75b6&style=flat" alt="jordi-buitrago" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jordi_buitrago" target="blank"><img src="https://img.shields.io/twitter/follow/jordi_buitrago?logo=twitter&style=for-the-badge" alt="jordi_buitrago" /></a> </p>
-
 - ⚛️ I’m learning **React**
 
 - 🌱 I’m currently Studying **Development of Multiplatform Applications**

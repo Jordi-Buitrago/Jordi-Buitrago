@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jordi_buitrago" target="blank"><img src="https://img.shields.io/twitter/follow/jordi_buitrago?logo=twitter&style=for-the-badge" alt="jordi_buitrago" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- ⚛️ I’m learning **React**
+
+- 🌱 I’m currently Studying **Development of Multiplatform Applications**
 
 - 📫 How to reach me **contacto.buitrago@gmail.com**
 

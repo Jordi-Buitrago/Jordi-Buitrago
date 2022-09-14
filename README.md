@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Buitrago</h1>
-<h3 align="center">A passionate Full Stack developer from Spain</h3>
+<h3 align="center">A passionate Front End Developer from Spain</h3>
 
 - ⚛️ I’m learning **React**
 

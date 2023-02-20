@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently Studying **Development of Multiplatform Applications**
 
-- 👀 My portfolio: https://jordi-buitrago.github.io/Buitrago-portfolio/
-
 - 📫 How to reach me **contacto.buitrago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

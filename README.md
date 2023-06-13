@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordi-buitrago&label=Profile%20views&color=0e75b6&style=flat" alt="jordi-buitrago" /> </p>
 
 <p align="left">
-  <a href="https://twitter.com/jordi_buitrago" target="_blank"><img src="https://img.shields.io/twitter/follow/jordi_buitrago?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/jordi-buitrago-martinez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:contacto.buitrago@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail" alt="Email" /></a>
   <a href="https://jordi-buitrago.github.io/Buitrago-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
 </p>
 
-<p align="center">Welcome to my profile! I'm a passionate developer from Spain. Feel free to explore my portfolio and connect with me on Twitter and LinkedIn.</p>
+<p align="center">Welcome to my profile! I'm a passionate developer from Spain, dedicated to creating innovative solutions. Feel free to explore my portfolio and connect with me on LinkedIn or send me an email at contacto.buitrago@gmail.com.</p>
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
@@ -29,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordi-buitrago&show_icons=true&locale=en&layout=compact" alt="jordi-buitrago" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordi-buitrago&show_icons=true&locale=en" alt="jordi-buitrago" /></p>
-

@@ -9,10 +9,6 @@
   <a href="https://jordi-buitrago.github.io/Buitrago-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordi-buitrago" alt="jordi-buitrago" /></a>
-</p>
-
 <p align="center">Welcome to my profile! I'm a passionate developer from Spain. Feel free to explore my portfolio and connect with me on Twitter and LinkedIn.</p>
 
 <p align="left"> 
@@ -22,14 +18,4 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS" />
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordi-buitrago&show_icons=true&locale=en&layout=compact" alt="jordi-buitrago" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordi-buitrago&show_icons=true&locale=en" alt="jordi-buitrago" /></p>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel

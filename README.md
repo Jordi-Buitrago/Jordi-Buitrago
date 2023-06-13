@@ -3,18 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordi-buitrago&label=Profile%20views&color=0e75b6&style=flat" alt="jordi-buitrago" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordi-buitrago" alt="jordi-buitrago" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jordi_buitrago" target="blank"><img src="https://img.shields.io/twitter/follow/jordi_buitrago?logo=twitter&style=for-the-badge" alt="jordi_buitrago" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jordi_buitrago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordi_buitrago" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordi-buitrago-martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordi_buitrago_martinez" height="30" width="40" /></a>
-<a href="https://instagram.com/jordi_buitrago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordi_buitrago" height="30" width="40" /></a>
+  <a href="https://twitter.com/jordi_buitrago" target="_blank"><img src="https://img.shields.io/twitter/follow/jordi_buitrago?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/jordi-buitrago-martinez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://jordi-buitrago.github.io/Buitrago-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" alt="Git" />
@@ -34,4 +28,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordi-buitrago&show_icons=true&locale=en" alt="jordi-buitrago" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordi-buitrago&" alt="jordi-buitrago" /></p>
+<p align="center">Welcome to my profile! I'm a passionate developer from Spain. Feel free to explore my portfolio and connect with me on Twitter and LinkedIn.</p>
+
+<p align="center"><a href="https://jordi-buitrago.github.io/Buitrago-portfolio/" target="_blank">Visit Portfolio</a></p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordi-buitrago" alt="jordi-buitrago" /></a>
+</p>

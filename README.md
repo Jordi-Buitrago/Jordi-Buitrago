@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/jordi-buitrago-martinez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:contacto.buitrago@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://jordi-buitrago.github.io/Buitrago-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
 </p>
 
 <p align="center">Welcome to my profile! I'm a passionate developer from Spain, dedicated to creating innovative solutions. Feel free to explore my portfolio and connect with me on LinkedIn or send me an email at contacto.buitrago@gmail.com.</p>

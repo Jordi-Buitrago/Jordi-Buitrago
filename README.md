@@ -9,6 +9,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=github" alt="Portfolio" /></a>
 </p>
 
-<p align="center">Welcome to my profile! I'm a dedicated Odoo developer working at Pyming. My focus is on creating efficient business solutions through innovative development. Feel free to explore my projects and connect with me on LinkedIn or via email at contacto.buitrago@gmail.com.</p>
+<p align="center">Welcome to my profile! I'm a dedicated Odoo developer working at Pyming. My focus is on creating efficient business solutions through innovative development. Feel free to explore my projects and connect with me on LinkedIn or via email at hola@jbuitrago.com</p>
 
 
